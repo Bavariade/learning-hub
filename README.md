@@ -10,7 +10,7 @@ A robust, single-file Repository pattern implementation suitable for a GitHub re
 - bulk operations, audit logging, and simple event hooks
 - small CLI-style usage example & basic self-test at the bottom
 
-Drop this file into a project, adapt the Entity fields and persistence path as needed.
+rop this file into a project, adapt the Entity fields and persistence path as needed.
 """
 
 import json
