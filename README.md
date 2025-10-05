@@ -13,7 +13,7 @@ A robust, single-file Repository pattern implementation suitable for a GitHub re
 rop this file into a project, adapt the Entity fields and persistence path as needed.
 """
 
-import json
+impor json
 import uuid
 import threading
 import datetime
