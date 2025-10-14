@@ -1,5 +1,5 @@
 """
-epository.py
+repository.py
 
 A robust, single-file Repository pattern implementation suitable for a GitHub repo's
 "repository" section. This example is written in Python and demonstrates:
